@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherForcast</string>
+    <string name="min_temp">Min Temp: 5°C</string>
+    <string name="max_temp">Max Temp: 50°C</string>
+    <string name="temp">25°C</string>
+    <string name="city_name">Delhi</string>
+    <string name="time_date">20 Dec 2020, 08:00 PM</string>
+    <string name="sunrise">06:40 AM</string>
+    <string name="sunset">06:40 PM</string>
+    <string name="wind">1 m/s</string>
+    <string name="pressure">1000 hPa</string>
+    <string name="humidity">55 %</string>
+    <string name="developer_name">Ritesh</string>
+    <string name="weather_status">Fog</string>
+    <string name="feel_temp">Feels Like : 25°C</string>
+</resources>
